@@ -1,3 +1,4 @@
+.DS_Store
 .Rproj.user
 .Rhistory
 .RData
@@ -10,3 +11,6 @@
 *.upa
 *.upb
 *-concordance.tex
+cache/
+correspondence/
+exploration/
